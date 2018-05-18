@@ -1,5 +1,5 @@
 # BFFL Finder - Friend Finder App
-An app created using Node.js, Express, Body Parser, and Path to find a friend that you're most compatible with.
+An app created using Node.js, Express, Body Parser, and Path to find a friend that you're most compatible with. The app is available on Heroku: https://protected-ravine-64209.herokuapp.com/
 
 ## Screenshots
 
